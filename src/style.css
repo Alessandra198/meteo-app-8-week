@@ -98,6 +98,11 @@ main {
   opacity: 0.4;
 }
 
+.weather-forecast-icon {
+  display: block;
+  margin: 0 auto;
+}
+
 .weather-forecast-temperature {
   color: #f652b4;
 }
